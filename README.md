@@ -99,3 +99,41 @@ supplychain_forecasting/
 - Pandas, NumPy, Scikit-learn
 - Google Cloud BigQuery SDK
 - Airflow
+
+# Use Cases
+
+## Demand Forecasting for Retail & E-commerce
+- Predict sales trends for better inventory management.
+- Optimize restocking strategies based on AI-driven demand predictions.
+
+## Supply Chain Optimization
+- Improve warehouse stocking and reduce overstocking.
+- Predict fluctuations in supply chain demand based on external factors.
+
+## Financial & Business Forecasting
+- Assist businesses in revenue forecasting.
+- Enhance budgeting by predicting sales performance across seasons.
+
+## Logistics & Distribution
+- Optimize shipping schedules based on forecasted sales.
+- Reduce delivery time and costs by aligning supply with demand.
+
+---
+
+# Future Enhancements
+
+## 1. Incorporating External Data Sources
+- **Weather Data**: To analyze seasonal effects on sales.
+- **Social Media Sentiment Analysis**: To correlate public sentiment with demand fluctuations.
+
+## 2. AutoML & Model Selection
+- Implement **AutoML** to dynamically select the best forecasting model.
+- Optimize **feature selection** using advanced AI-driven techniques.
+
+## 3. Cloud Integration
+- Deploy on **Google Cloud AI Platform** for **real-time forecasting**.
+- Implement **API-based forecasting service** for production use.
+
+## 4. AI-Powered Decision Making
+- Build a **dashboard** with **Tableau or PowerBI** for interactive visualizations.
+- Implement **AI recommendations** for sales managers (e.g., "Stock up on X item before Q4").
